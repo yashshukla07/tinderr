@@ -1,0 +1,199 @@
+html, body {
+  overflow-x: hidden;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin: 15% 0 0 0;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-bottom: 5%;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 800;
+  color: #ff6347;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Title Section Styling */
+#title {
+  background-image: url('../images/newimg.jpg');
+  height: 800px;
+  opacity: 1;
+  color: #fff;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*    Navbar styling  */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  font-size: 2.6rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.navbar-nav :hover {
+  text-decoration: underline;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*   Button Class styling */
+.down-but {
+  margin: 9% 5% 5% 0;
+}
+
+/*   Features Section styling */
+.img {
+  text-align: center;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.tutu {
+  color: #ef8172;
+  margin: 1.5rem;
+}
+
+.tutu:hover {
+  color: #FF4c68;
+  cursor: pointer;
+}
+
+/* Testimonials Section Styling */
+
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.test-img {
+  width: 140px;
+  margin: 25px;
+  border-radius: 100px;
+}
+
+/* Press Section Styling */
+
+#press {
+  background-color: #ef8172;
+  padding: 5%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* Pricing Section Styling */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.price {
+  padding: 3% 2%;
+}
+
+.pry {
+  color: #222f3d;
+  font-family: "Montserrat";
+  font-weight: 800;
+}
+
+.pp {
+  font-size: 1.5rem;
+}
+
+.bhai-price {
+  color: DarkSlateGray;
+}
+
+.headings {
+  font-weight: normal;
+  color: #fff;
+}
+
+/* Download Section Styling */
+
+#cta {
+  background-image: url('../images/newww.jpg');
+  height: 500px;
+  opacity: 1;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 15%;
+}
+
+.bb {
+  margin: 4% 3% 3% 0;
+}
+
+.meme {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  font-size: 3rem;
+  color: #fff;
+}
+
+/* Footer Section Styling */
+
+#footer {
+  text-align: center;
+  padding: 2%;
+}
+
+.fool {
+  color: #222f3d;
+}
+
+.foot {
+  margin: 15px 10px;
+}
